@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Cinzel', serif; 
+    background: none; /* Remove overall background, applying to sections only */
+}
+
+.hud {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.top-left {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.top-section {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.discord-link {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.75);
+}
+
+.player-info-container {
+    position: absolute;
+    top: 60px; /* Adjusted to align better with the rest of the UI */
+    right: 20px;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    gap: 10px;
+}
+
+.info-box {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.15); /* Slightly more opaque background for better visibility */
+    padding: 10px;
+    border-radius: 12px; /* Rounded corners for a modern look */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4); /* Subtle shadow for a raised effect */
+    background-image: url('Design_a_clean,_stylish_background_image_for_a_gam.png'); /* Apply background to individual sections */
+    background-size: cover;
+}
+
+.info-text {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.icon {
+    width: 36px;
+    height: auto;
+}
+
+#bankContainer img {
+    width: 42px; /* Slightly larger credit card icon */
+}
+
+#jobContainer img {
+    width: 40px; /* Slightly larger job icon */
+}
