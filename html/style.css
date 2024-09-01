@@ -77,3 +77,8 @@ body {
 #jobContainer img {
     width: 40px; /* Slightly larger job icon */
 }
+
+#timeContainer img {
+    width: 36px; /* Set width as desired */
+    height: auto;
+}
