@@ -14,7 +14,7 @@ This repository contains a sleek and modern HUD (Heads-Up Display) for your Five
 
 ### Step 2: Replace Your Existing HUD
 1. Navigate to your `resources` directory in your QBCore server.
-2. Delete or backup your existing HUD resource folder.
+2. Delete or backup your existing HUD resource folder. ( Not necessary if you are using qb-hud or ps-hud and want your minimap and status icons to stay )
 3. Copy the `dna_hud` folder from this repository into your `resources` directory.
 
 ### Step 3: Start the HUD Resource
