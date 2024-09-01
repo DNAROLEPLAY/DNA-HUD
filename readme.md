@@ -49,3 +49,9 @@ To update the Discord link displayed on the HUD:
 DNA DEVELOPMENT DISCORD FOR SUPPORT BELOW:
 
 https://discord.gg/Ja8cjGhKSp
+
+
+
+## UPDATES WILL BE POSTED BELOW
+
+1.1) Added a section for the time that changes icon when it turns night time
