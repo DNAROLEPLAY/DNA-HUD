@@ -1,6 +1,6 @@
 # DNA RP HUD for FiveM (QBCore Compatible)
 
-This repository contains a sleek and modern HUD (Heads-Up Display) for your FiveM server, designed specifically for QBCore. This HUD displays essential player information, including server ID, cash, bank balance, job title, server logo, and Discord link. It's a simple addition intended to enhance the visual appeal of your city without modifying the map or health bar.
+This repository contains a sleek and modern HUD (Heads-Up Display) for your FiveM server, designed specifically for QBCore. This HUD displays essential player information, including server ID, cash, bank balance, job title, server logo, and Discord link. It's a simple addition intended to enhance the visual appeal of your city without modifying the map or health bar ( status icons ).
 
 ## Features
 - Displays player ID, cash, bank balance, and job title.
