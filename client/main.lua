@@ -18,12 +18,17 @@ end)
 -- Function to update the HUD
 function UpdateHUD()
     if hudVisible and playerData then
+        local hour = GetClockHours()
+        local minute = GetClockMinutes()
+        local timeString = string.format("%02d:%02d", hour, minute)
+
         SendNUIMessage({
             action = 'updateHud',
             serverId = GetPlayerServerId(PlayerId()),
             cash = playerData.money['cash'],
             bank = playerData.money['bank'],
-            job = playerData.job.label
+            job = playerData.job.label,
+            gameTime = timeString
         })
     end
 end
