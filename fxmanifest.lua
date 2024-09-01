@@ -9,6 +9,7 @@ client_scripts {
     'client/main.lua'
 }
 
+
 ui_page 'html/index.html'
 
 files {
@@ -19,5 +20,7 @@ files {
     'html/cash_icon.png',
     'html/bank_icon.png',
     'html/job_icon.png',
-    'html/id_icon.png'  -- Add the new ID icon
+    'html/id_icon.png',
+    'html/sun.png',
+    'html/moon.png'
 }
