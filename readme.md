@@ -44,7 +44,8 @@ To update the Discord link displayed on the HUD:
 1. Open `index.html` and locate:
    ```html
    <p class="discord-link">discord.gg/dnaroleplay</p>
-![image](https://github.com/user-attachments/assets/dae608ba-069d-4792-903d-6b9cbeed60c5)
+![image](https://github.com/user-attachments/assets/410134d9-2857-40fa-8991-b3ae0ba9ad86)
+![image](https://github.com/user-attachments/assets/c17933ac-8f36-4a57-9d29-7c4a3c051e1d)
 
 DNA DEVELOPMENT DISCORD FOR SUPPORT BELOW:
 
