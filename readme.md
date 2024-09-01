@@ -46,5 +46,6 @@ To update the Discord link displayed on the HUD:
    <p class="discord-link">discord.gg/dnaroleplay</p>
 ![image](https://github.com/user-attachments/assets/dae608ba-069d-4792-903d-6b9cbeed60c5)
 
+DNA DEVELOPMENT DISCORD FOR SUPPORT BELOW:
 
 https://discord.gg/Ja8cjGhKSp
