@@ -37,14 +37,6 @@ To personalize the HUD with your server's branding:
    - Replace the corresponding icon files (`id_icon.png`, `cash_icon.png`, `bank_icon.png`, `job_icon.png`) with your desired icons.
    - Keep the same file names, or update the paths in `index.html`.
 
-3. **Background Image for Info Boxes**:
-   - Modify the `style.css` file to change the background image of the info boxes:
-     ```css
-     .info-box {
-         background-image: url('your_background_image.png'); /* Update this path */
-         background-size: cover;
-     }
-     ```
 
 ### Changing the Discord Invite Link
 To update the Discord link displayed on the HUD:
